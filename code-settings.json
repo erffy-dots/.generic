@@ -37,6 +37,8 @@
   "terminal.integrated.defaultProfile.linux": "fish",
   "terminal.integrated.smoothScrolling": true,
   "window.commandCenter": false,
+  "window.customTitleBarVisibility": "never",
+  "window.titleBarStyle": "native",
   "workbench.activityBar.location": "top",
   "workbench.colorTheme": "Catppuccin Mocha",
   "workbench.editor.enablePreview": false,
