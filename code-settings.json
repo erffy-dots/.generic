@@ -36,9 +36,6 @@
   "scm.diffDecorations": "none",
   "terminal.integrated.defaultProfile.linux": "fish",
   "terminal.integrated.smoothScrolling": true,
-  "window.commandCenter": false,
-  "window.customTitleBarVisibility": "never",
-  "window.titleBarStyle": "native",
   "workbench.activityBar.location": "top",
   "workbench.colorTheme": "Catppuccin Mocha",
   "workbench.editor.enablePreview": false,
@@ -49,5 +46,7 @@
   "workbench.productIconTheme": "material-product-icons",
   "workbench.startupEditor": "none",
   "workbench.statusBar.visible": false,
-  "workbench.tree.renderIndentGuides": "none"
+  "workbench.tree.renderIndentGuides": "none",
+  "zig.zls.enabled": "on",
+  "window.commandCenter": false
 }
