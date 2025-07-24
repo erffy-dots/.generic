@@ -36,6 +36,8 @@
   "scm.diffDecorations": "none",
   "terminal.integrated.defaultProfile.linux": "fish",
   "terminal.integrated.smoothScrolling": true,
+  "window.commandCenter": false,
+  "window.confirmSaveUntitledWorkspace": false,
   "workbench.activityBar.location": "top",
   "workbench.colorTheme": "Catppuccin Mocha",
   "workbench.editor.enablePreview": false,
@@ -48,5 +50,8 @@
   "workbench.statusBar.visible": false,
   "workbench.tree.renderIndentGuides": "none",
   "zig.zls.enabled": "on",
-  "window.commandCenter": false
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "redhat.telemetry.enabled": true
 }
