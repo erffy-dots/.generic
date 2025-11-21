@@ -2,11 +2,11 @@
   "[vue]": {
     "editor.defaultFormatter": "Vue.volar"
   },
-  "*.hidesExplorerArrows": true,
   "breadcrumbs.enabled": false,
   "catppuccin-icons.hidesExplorerArrows": true,
   "catppuccin.italicComments": false,
   "catppuccin.italicKeywords": false,
+  "chat.agent.enabled": false,
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
   "editor.cursorBlinking": "smooth",
   "editor.cursorSmoothCaretAnimation": "on",
